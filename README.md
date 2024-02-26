@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanzammarrelli&label=Profile%20views&color=0e75b6&style=flat" alt="ivanzammarrelli" /> </p>
 
-- 🌍 Languages [Croatian, Italian, German, English, Serbian](Croatian, Italian, German, English, Serbian)
+- 🌍 Languages [Croatian, Italian, German, English, Serbian]
 
 - 📫 How to reach me **ivan.zammarrelli@hotmail.com**
 
