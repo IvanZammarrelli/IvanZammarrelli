@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">🩺 Former healthcare practitioner turned aspiring IT enthusiast. Since 2023, I've been on a journey to enhance my skills in Information Technology. 🖥️ Excited about the intersection of healthcare and tech, I'm committed to leveraging my background to contribute meaningfully to the world of IT. 💻 Currently diving deep into coding, automation, and all things tech-related. 🚀 Always eager to learn and collaborate on projects that make a positive impact. 🌐 Let's connect and code for a healthier, tech-savvy future! 🌍</h3>
+<h3 align="center">🩺 Former healthcare practitioner and linguist turned aspiring IT enthusiast. Since 2023, I've been on a journey to enhance my skills in Information Technology. 🖥️ Excited about the intersection of healthcare and tech, I'm committed to leveraging my background to contribute meaningfully to the world of IT. 💻 Currently diving deep into coding, automation, and all things tech-related. 🚀 Always eager to learn and collaborate on projects that make a positive impact. 🌐 Let's connect and code for a healthier, tech-savvy future! 🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanzammarrelli&label=Profile%20views&color=0e75b6&style=flat" alt="ivanzammarrelli" /> </p>
 
