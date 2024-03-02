@@ -20,7 +20,7 @@
 ### DevOps Skills:
 
 - Automation with Jenkins
-- Infrastructure as Code (IaaC) with Terraform
+- Infrastructure as Code (IaC) with Terraform
 - Containerization with Docker
 - Configuration Management with Ansible
 - Monitoring and Logging with Grafana and Prometheus
