@@ -38,7 +38,7 @@
   - Willingness to learn from experiences and adapt behaviors accordingly.
   - Continuous commitment to personal and professional growth through self-awareness.
 
-- **Interpersonal Skills (Polyglot):**
+- **Interpersonal Skills:**
   - Multilingual proficiency fostering effective communication in diverse environments.
   - Adaptability and ease in building connections with individuals from various cultural backgrounds.
   - Open-mindedness and appreciation for different perspectives.
