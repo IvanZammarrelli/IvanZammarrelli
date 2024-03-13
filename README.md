@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ivan.zammarrelli@hotmail.com**
 
-- ⚡ Fun fact **I have a secret talent for turning everyday objects into makeshift musical instruments. Give me a pen, a cup, and a dash of creativity, and voilà – impromptu desk percussion concert! 🥁🎶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
